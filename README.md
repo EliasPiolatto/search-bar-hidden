@@ -1,3 +1,3 @@
 # React + Vite
 
-Utilizar comando: npm run dev
+Para correr app, utilizar comando: npm run dev
